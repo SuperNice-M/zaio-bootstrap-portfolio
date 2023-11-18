@@ -38,6 +38,12 @@ position: absolute;
 top: 0;
 }
 
+.scrolling {
+  background: black;
+  opacity: 70%;
+  transition: all 0.5s;
+}
+
 .nav-masthead .nav-link {
 padding: 0.25rem 0;
 font-weight: 700;
